@@ -8,7 +8,7 @@ To analyze results and assess quality of models
 
 **Regression Problem**
 
-1. Download the file AirQualityUCI.csv from Canvas and examine the following features:
+1. Download the file AirQualityUCI.csv from and examine the following features:
    CO(GT)
    NMHC(GT)
    C6H6(GT)
